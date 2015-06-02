@@ -1,6 +1,6 @@
 #### Week 1 Day 2
 
-![Week 1 Day 2 Strava](/images/w1d2.png)
+![Week 1 Day 2 Strava](images/w1d2.png)
 
 * 8x 60 second run/90 second walk
 * Average pace: 7:49/km
@@ -13,7 +13,7 @@
 
 #### Week 1 Day 1
 
-![Week 1 Day 1 Strava](/images/w1d1.png)
+![Week 1 Day 1 Strava](images/w1d1.png)
 
 * 8x 60 second run/90 second walk
 * Average pace: 7:55/km

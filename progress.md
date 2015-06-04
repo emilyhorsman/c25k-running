@@ -1,3 +1,15 @@
+#### Week 1 Day 3
+
+![Week 1 Day 3 Strava](images/w1d3.png)
+
+* 8x 60 second run/90 second walk
+* Went earlier than usual
+* Average pace: 7:58/km
+* Not quite as easy as W1D3 but not particularly difficult
+* Ate within energy deficit on day before
+* Temperature: 16°C
+* Humidity: 70%
+
 #### Week 1 Day 2
 
 ![Week 1 Day 2 Strava](images/w1d2.png)

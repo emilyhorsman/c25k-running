@@ -1,3 +1,14 @@
+#### Week 2 Day 1
+
+![Week 2 Day 1 Strava](images/w2d1.png)
+
+* 6x 90 second run/90 second walk
+* Went in the afternoon
+* Average pace: 7:10/km
+* Not too difficult
+* Temperature: 22°C
+* Humidity: 68%
+
 #### Week 1 Day 3
 
 ![Week 1 Day 3 Strava](images/w1d3.png)

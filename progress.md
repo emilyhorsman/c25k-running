@@ -1,6 +1,6 @@
 #### Week 2 Day 3
 
-![Week 2 Day 3 Strava](images/w2day3.png)
+![Week 2 Day 3 Strava](images/w2d3.png)
 
 * 6x 90 second run/90 second walk
 * Went at 2PM

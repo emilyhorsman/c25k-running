@@ -1,3 +1,21 @@
+#### Week 2 Day 3
+
+![Week 2 Day 3 Strava](images/w2day3.png)
+
+* 6x 90 second run/90 second walk
+* Went at 2PM
+* Average pace: 7:43/km
+* Not too difficult
+* Hadn’t eaten much before
+* Temperature: 16°C
+* Humidity: 79%
+
+#### Week 2 Bonus Run
+
+![Week 2 Bonus Run Strava](images/w2bonusrun.png)
+
+* Average pace: 7:54/km
+
 #### Week 2 Day 2
 
 ![Week 2 Day 2 Strava](images/w2d2.png)

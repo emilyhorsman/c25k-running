@@ -1,3 +1,14 @@
+#### Week 3 Day 1
+
+![Week 3 Day 1 Strava](images/w3d1.png)
+
+* 2x 90 second run/90 second walk/3 minute run/3 minute walk
+* Went at 12:30PM
+* Fairly difficult, just barely made the three minute springs
+* Was feeling sorta shakey before going
+* Temperature: 18°C
+* Humidity: 92%
+
 #### Week 2 Day 3
 
 ![Week 2 Day 3 Strava](images/w2d3.png)

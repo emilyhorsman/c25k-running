@@ -1,3 +1,17 @@
+#### Week 3 Day 3
+
+![Week 3 Day 3 Strava](images/w3d3.png)
+
+* 2x 90 second run/90 second walk/3 minute run/3 minute walk
+* This went **much** better, felt way easier. Still a challenge though.
+
+#### Week 3 Day 2
+
+![Week 3 Day 2 Strava](images/w3d2.png)
+
+* 2x 90 second run/90 second walk/3 minute run/3 minute walk
+* Still fairly difficult
+
 #### Week 3 Day 1
 
 ![Week 3 Day 1 Strava](images/w3d1.png)

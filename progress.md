@@ -1,3 +1,17 @@
+#### Week 4 Day 1
+
+![Week 4 Day 1 Strava](images/w4d1.png)
+
+* This was **very** difficult
+* App kept crashing so I used a timer myself
+* Did full 3 and 5 min running sprints, but added a little extra walking time between sprints.
+
+#### Week 3 Day 4
+
+![Week 3 Day 4 Strava](images/w3d4.png)
+
+* Wasn't so bad!
+
 #### Week 3 Day 3
 
 ![Week 3 Day 3 Strava](images/w3d3.png)

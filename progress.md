@@ -1,3 +1,10 @@
+#### Week 4 Day 2
+
+![Week 4 Day 2 Strava](images/w4d2.png)
+
+* Couldn't finish the last two intervals
+* Did run 1K in 5:20 apparently though
+
 #### Week 4 Day 1
 
 ![Week 4 Day 1 Strava](images/w4d1.png)

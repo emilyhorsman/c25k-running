@@ -1,3 +1,11 @@
+#### Week 4 Day 2 Take 2
+
+![Week 4 Day 2 Take 2](images/w4d2t2.png)
+
+* First Week 4 run I finished to the exact intervals!
+* Very hot and humid outside :(
+* 5:18 1K
+
 #### Week 4 Day 2
 
 ![Week 4 Day 2 Strava](images/w4d2.png)

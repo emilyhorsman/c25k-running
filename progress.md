@@ -1,6 +1,14 @@
+#### Week 4 Day 3
+
+![Week 4 Day 3 Strava](images/w4d3.png)
+
+* Success!
+* Got rained on hard, very humid
+* Still very difficult but notable improvement from last time
+
 #### Week 4 Day 2 Take 2
 
-![Week 4 Day 2 Take 2](images/w4d2t2.png)
+![Week 4 Day 2 Take 2 Strava](images/w4d2t2.png)
 
 * First Week 4 run I finished to the exact intervals!
 * Very hot and humid outside :(

@@ -1,3 +1,11 @@
+#### Week 4 Day 4
+
+![Week 4 Day 4 Strava](images/w4d4.pmg)
+
+* Success again
+* Nowhere near as difficult as last time
+* Went around 7PM, had much more food in me than normal, might've been a success factor
+
 #### Week 4 Day 3
 
 ![Week 4 Day 3 Strava](images/w4d3.png)

@@ -1,6 +1,6 @@
 #### Week 4 Day 4
 
-![Week 4 Day 4 Strava](images/w4d4.pmg)
+![Week 4 Day 4 Strava](images/w4d4.png)
 
 * Success again
 * Nowhere near as difficult as last time

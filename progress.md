@@ -1,3 +1,18 @@
+#### Week 5 Day 2
+
+![Week 5 Day 2 Strava](images/w5d2.png)
+
+* 8 min run/5 min walk/8 min run
+* Success, but the last half of the second interval was pretty difficult, didn't feel winded at the end though
+* Rainy etc
+
+#### Week 5 Day 1
+
+![Week 5 Day 1 Strava](images/w5d1.png)
+
+* 3x 5 min run/3 min walk
+* Success, not terribly difficult either
+
 #### Week 4 Day 4
 
 ![Week 4 Day 4 Strava](images/w4d4.png)

@@ -1,3 +1,9 @@
+#### Week 5 Day 3
+
+![Week 5 Day 3 Strava](images/w5d3.png)
+
+* Success! I just ran for 20 minutes straight!
+
 #### Week 5 Day 2
 
 ![Week 5 Day 2 Strava](images/w5d2.png)

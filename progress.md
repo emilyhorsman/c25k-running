@@ -1,3 +1,10 @@
+#### Week 6 Day 1
+
+![Week 6 Day 1 Strava](images/w6d1.png)
+
+* 5 min run/3 min walk/8 min run/3 min walk/5 min run
+* Success
+
 #### Week 5 Day 3
 
 ![Week 5 Day 3 Strava](images/w5d3.png)

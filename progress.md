@@ -1,3 +1,12 @@
+#### Week 6 Day 2
+
+![Week 6 Day 2 Strava](images/w6d2.png)
+
+* Unsuccessful
+* Attempt: 10 min run/3 min walk/10 min run
+* Legs still dead from hiking and previous run before I even started this one
+* Extremely hot and humid outside
+
 #### Week 6 Day 1
 
 ![Week 6 Day 1 Strava](images/w6d1.png)

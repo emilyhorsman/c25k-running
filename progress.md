@@ -1,3 +1,10 @@
+#### Week 6 Day 2 Take 2
+
+![Week 6 Day 2 Take 2 Strava](images/w6d2take2.png)
+
+* Success!
+* Phone died two thirds through there
+
 #### Week 6 Day 2
 
 ![Week 6 Day 2 Strava](images/w6d2.png)
